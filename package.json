@@ -1,6 +1,6 @@
 {
   "name": "@nest-js/gcp",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "description": "NestJS gcp library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
